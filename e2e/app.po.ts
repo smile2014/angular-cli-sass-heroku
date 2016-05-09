@@ -4,6 +4,6 @@ export class Ng2AppWithCliPage {
   }
 
   getParagraphText() {
-    return element(by.css('ng2-app-with-cli-app h1')).getText();
+    return element(by.css('h1')).getText();
   }
 }

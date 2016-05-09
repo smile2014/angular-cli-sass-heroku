@@ -9,6 +9,6 @@ describe('ng2-app-with-cli App', function() {
 
   it('should display message saying app works', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('ng2-app-with-cli works!');
+    expect(page.getParagraphText()).toEqual('site works!');
   });
 });

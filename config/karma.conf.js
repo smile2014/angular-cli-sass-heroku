@@ -20,6 +20,8 @@ module.exports = function (config) {
       { pattern: 'dist/vendor/systemjs/dist/system-polyfills.js', included: true, watched: false },
       { pattern: 'dist/vendor/systemjs/dist/system.src.js', included: true, watched: false },
       { pattern: 'dist/vendor/zone.js/dist/async-test.js', included: true, watched: false },
+      { pattern: 'dist/vendor/jquery/dist/jquery.min.js', included: true, watched: false },
+      { pattern: 'dist/vendor/bootstrap-sass/assets/javascripts/bootstrap.min.js', included: true, watched: false },
 
       { pattern: 'config/karma-test-shim.js', included: true, watched: true },
 

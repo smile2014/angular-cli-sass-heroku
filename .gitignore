@@ -2,6 +2,7 @@
 
 # compiled output
 /dist
+/src/fonts
 /tmp
 
 # dependencies
@@ -26,3 +27,5 @@ testem.log
 
 #System Files
 .DS_Store
+
+.bundle

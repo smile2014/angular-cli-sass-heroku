@@ -28,7 +28,9 @@ const barrels: string[] = [
 
   // App specific barrels.
   'app',
+  'app/components',
   'app/shared',
+  'app/components/header',
   /** @cli-barrel */
 ];
 
@@ -45,6 +47,8 @@ System.config({
   map: {
     '@angular': 'vendor/@angular',
     'rxjs': 'vendor/rxjs',
+    'jquery': 'vendor/jquery/dist/jquery.min.js',
+    'bootstrap': 'vendor/bootstrap-sass/assets/javascripts/bootstrap.min.js',
     'main': 'main.js'
   },
   packages: cliSystemConfigPackages

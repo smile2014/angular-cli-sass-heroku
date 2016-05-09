@@ -4,7 +4,7 @@
     "name": "ng2-app-with-cli"
   },
   "apps": [
-    {"main": "src/main.ts", "tsconfig": "src/tsconfig.json"}
+    { "main": "src/main.ts", "tsconfig": "src/tsconfig.json" }
   ],
   "addons": [],
   "packages": [],

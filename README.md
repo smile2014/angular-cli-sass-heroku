@@ -9,7 +9,7 @@ For instructions about installing Node.js, refer [Node.js Website](https://nodej
 
 Clone this repo into new project folder (e.g., `angular2-app`).
 ```bash
-git clone  https://github.com/tushar-chauhan/angular2-sass-gulp-heroku-boilerplate.git  angular2-app
+git clone https://github.com/tushar-chauhan/angular-cli-sass-heroku.git angular2-app
 cd angular2-app
 ```
 ## Install npm packages

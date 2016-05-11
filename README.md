@@ -8,10 +8,12 @@ For instructions about installing Node.js, refer [Node.js Website](https://nodej
 ## Getting started
 
 Clone this repo into new project folder (e.g., `angular2-app`).
+
 ```bash
 git clone https://github.com/tushar-chauhan/angular-cli-sass-heroku.git angular2-app
 cd angular2-app
 ```
+
 ## Install npm packages
 
 Install the npm packages described in the `package.json` and verify that it works:
